@@ -10,23 +10,15 @@ This project is a simple Pokedex web application that fetches and displays Poké
   - **Moves (limited to 5)**
 
 ## How to Use
-1. Enter a Pokémon name or ID in the search bar.
-2. Click the "Search" button.
-3. The Pokémon's details will be displayed.
-
-## Live Demo
-You can see the website in action [here](#) (Add your GitHub Pages link after publishing).
+1. Open the `index.html` file in any web browser.
+2. Enter a Pokémon name or ID in the search bar.
+3. Click the "Search" button.
+4. The Pokémon's details will be displayed.
 
 ## Project Structure
 - `index.html`: The main HTML file.
 - `styles.css`: Contains styles for the website.
 - `script.js`: Handles API calls and updates the UI dynamically.
-
-## Deployment
-This project can be easily deployed using GitHub Pages:
-1. Go to the repository settings.
-2. Enable GitHub Pages under the "Pages" section.
-3. Select the branch and directory to publish.
 
 ## Contributions
 Feel free to fork the repository and submit pull requests for improvements or new features.
